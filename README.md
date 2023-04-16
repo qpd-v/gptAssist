@@ -1,4 +1,4 @@
-# gptAssist README.md
+# gptAssist 1.0 README.md
 
 ## Overview
 
